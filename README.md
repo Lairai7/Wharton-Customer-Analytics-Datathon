@@ -1,5 +1,5 @@
 # Wharton-Customer-Analytics-Datathon
-# This project is based on a real dataset pertaining to the UK clients of Baring PE Asia, which cannot be shared for contractual reasons. 
+# This project is based on a real-world dataset pertaining to the UK clients of Baring PE Asia, which cannot be shared for contractual reasons. 
 Cross-selling- Selling a different product or service to an existing customer.(for instance, introducing e-commerce customers to retail stores for greater benefits)
 
 SKU- Stock Keeping Unit, refers to a unique number used to identify the product,product size,type and the manufacturer. 
